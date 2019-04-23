@@ -1,4 +1,4 @@
-# typinggame
+# Typing Vuetor
 
 ## Project setup
 ```
