@@ -1,5 +1,11 @@
 # Typing Vuetor
 
+A typing tutor made in Vue.js!
+
+## Add your own words
+
+To add your own words, edit the src/words.ts file and run the project.
+
 ## Project setup
 ```
 npm install
